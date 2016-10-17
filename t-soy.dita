@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_c3h_3c3_qx">
+    <title>How to Make Lactose-Free Ice Cream with Machine</title>
+    <shortdesc>How to make lactose-free ice cream with soy milk, soy creamer, and vegan chocolate</shortdesc>
+    <taskbody>
+        <prereq>The following steps will help you make soy ice cream.
+            
+            <ul>
+                <li><b>Goal</b>: Make dairy-free ice cream with soy for those that are lactose-intolerant</li>
+                <li><b>Audience</b>: Student or faculty in Shanks</li>
+                <li><b>Materials</b>: Machine, moist cloth, two cups soy milk, two cups soy creamer, two tablespoons of cornstarch, one-half cup honey, vegan chocolate, spatula</li>
+                <li><note type="caution">Do not fill the freezer bowl higher than one-half inch from the top. The ingredients 
+                    will increase in volume during the freezing process, and this machine yields two quarts or less of whatever is 
+                    made.</note></li>
+                <li><note type="important">The machine will stop if the system overheats. The machine may overheat if the 
+                    dessert being prepared is extremely thick, if the unit has been running for an excessively long time, or 
+                    if the added ingredients contain large pieces.</note></li>
+            </ul>
+        </prereq>
+        <steps>
+            <step>
+                <cmd><b>Wipe</b> motor base with moist cloth</cmd>
+            </step>
+            <step>
+                <cmd><b>Move</b> easy-lock lid with ingredient spout over the freezer bowl until it locks into place</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><b>Attach</b> cap wit measurement cup oer easy-lock lid</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Select</b> "Ice Cream"</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><b>Press</b> "Start/Stop." The freezer bowl will start churning.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Pour</b> soy milk and creamer athrough the cap with measurement cup (see
+                    Figure 4 below)</cmd>
+                <info>Figure 4: Examples of Soy Milk and Soy Creamer <image href="images/silk11.jpg"
+                    /></info>
+            </step>
+            <step>
+                <cmd><b>Add</b> in honey, cornstarch, and vegan chocolate</cmd>
+                
+                <substeps>
+                    <substep>
+                        <cmd>Nutella is dense and can be tricky to move and scoop. Be hasty during
+                            this part because the ingredients need to mix together as soon as
+                            possible.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Frozen dessert will take 15 to 40 minutes to complete. When the mixture
+                            has thickened to your liking, it is done.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>After 40 minutes, the machine will beep for five seconds every three
+                            minutes for a maximum of 30 minutes to signal that the process is
+                            complete.</cmd>
+                    </substep>
+                </substeps>
+            </step>   
+            <step>
+                <cmd><b>Open</b> cap and twist off easy-lock lid</cmd>
+            </step>
+            <step>
+                <cmd><b>Take out</b> ice cream from bowl using spatula</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

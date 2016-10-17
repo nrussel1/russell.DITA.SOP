@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zd5_qmz_px">
+    <title>How to Clean the Machine</title>
+    
+    <taskbody>
+        <prereq>The following steps will help you clean the ice cream maker.
+            
+           <ul>
+               <li><b>Goal</b>: Clean ice cream machine</li>
+               <li><b>Audience</b>: Student or faculty in Shanks</li>
+               <li><b>Materials</b>: Machine and included parts, moist cloth, working sink, warm water, soap</li>
+               <li><note>Before using the machine, make sure it is clean.</note></li>
+           </ul>
+        </prereq>
+        <steps>
+            <step>
+                <cmd><b>Ensure</b> the workspace is clean and open, see Figure 2</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>This is important as there are many movable parts and the cleaning surface should be clear.</cmd>
+                        <info>Figure 2: Ideal clean workspace <image href="images/maxresdefault.jpg"></image></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Wipe</b> motor base with moist cloth prior to using</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Make sure to remove any dust or residue from the manufacturing and shipping process</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Detach</b> lid, freezer bowl, and mixing arm from main component of the machine</cmd>
+               
+                    <info>
+                    <note type="caution">Do not immerse the water base in water.</note></info>
+            </step>
+            <step>
+                <cmd><b>Wash</b> the lid, freeze bowl, and mixing arm in warm water</cmd>
+                <info><note type="caution">Do not use any abrasive cleaners.</note></info>
+            </step>
+            <step>
+                <cmd><b>Dry</b> all parts thoroughly</cmd>
+                <info>
+                    <note type="caution">Do not put freezer bowl in the dishwasher. Wash by hand.</note>
+                    <note type="caution">Do not put freezer bowl in freezer if bowl is wet. Do not store lid, 
+                    mixing arm, or base in freezer</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

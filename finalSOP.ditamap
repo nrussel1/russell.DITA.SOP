@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Making Ice Cream in Shanks</title>
+ <topicref href="c-intro.dita"/>
+ <topicref href="t-started.dita"/>
+ <topicref href="t-clean.dita"/>
+ <topicref href="t-incorrect.dita"/>
+ <topicref href="t-beep.dita"/>
+ <topicref href="t-stopped.dita"/>
+ <topicref href="t-thinrecipe.dita"/>
+ <topicref href="t-strawberry.dita"/>
+ <topicref href="t-nutella.dita"/>
+ <topicref href="t-soy.dita"/>
+</map>

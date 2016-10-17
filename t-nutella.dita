@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gjx_wzh_qx">
+    <title>How to Make Hazelnut Ice Cream with Machine</title>
+    <shortdesc>How to make ice cream with half-and-half and Nutella</shortdesc>
+    <taskbody>
+        <prereq>The following steps will help you make hazelnut ice cream.
+            
+            <ul>
+                <li><b>Goal</b>: Make ice cream with half-and-half and Nutella</li>
+                <li><b>Audience</b>: Student or faculty in Shanks</li>
+                <li><b>Materials</b>: Machine, moist cloth, four cups of half-and-half, one 14-ounce can of 
+                    sweetened condensed milk, two tablespoons of vanilla extract, Nutella (see Figure 3 below), spatula</li>
+                <li><note type="caution">Do not fill the freezer bowl higher than one-half inch from the top. The ingredients 
+                    will increase in volume during the freezing process, and this machine yields two quarts or less of whatever is 
+                    made.</note></li>
+                <li><note type="important">The machine will stop if the system overheats. The machine may overheat if the 
+                    dessert being prepared is extremely thick, if the unit has been running for an excessively long time, or 
+                    if the added ingredients contain large pieces.</note></li>
+            </ul>
+            
+                    
+        </prereq>
+        <steps>
+            <step>
+                <cmd><b>Wipe</b> motor base with moist cloth</cmd>
+            </step>
+            <step>
+                <cmd><b>Move</b> easy-lock lid with ingredient spout over the freezer bowl until it locks into place</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><b>Attach</b> cap wit measurement cup oer easy-lock lid</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Select</b> "Ice Cream"</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><b>Press</b> "Start/Stop." The freezer bowl will start churning.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Pour</b> half-and-half and can of condensed milk into the freezer bowl using the cap</cmd>
+            </step>
+            <step>
+                <cmd><b>Add</b> in vanilla extract and Nutella (see Figure 3 below)</cmd>
+                <info>Figure 3: Image of Nutella <image href="images/Nutella.png"></image></info>
+                <substeps>
+                    <substep>
+                        <cmd>Nutella is dense and can be tricky to move and scoop. Be hasty during this part because the ingredients 
+                        need to mix together as soon as possible.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Frozen dessert will take 15 to 40 minutes to complete. When the mixture has thickened to your liking, it is done.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>After 40 minutes, the machine will beep for five seconds every three minutes for a maximum of 30 minutes to signal 
+                            that the process is complete.</cmd>
+                    </substep>
+                </substeps>
+            </step>   
+            <step>
+                <cmd><b>Open</b> cap and twist off easy-lock lid</cmd>
+            </step>
+            <step>
+                <cmd><b>Take out</b> ice cream from bowl using spatula</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

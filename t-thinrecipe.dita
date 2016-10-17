@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_icf_2mh_qx">
+    <title>How to Troubleshoot Machine (Four Different Ways)</title>
+    <taskbody>
+        <prereq>The following steps will help you troubleshoot the ice cream maker.
+            <ul>
+                <li><b>Goal</b>: Troubleshoot machine in four different situations</li>
+                <li><b>Audience</b>: Student or faculty in Shanks</li>
+                <li><b>Materials</b>: Ice cream machine</li>
+            </ul>
+        </prereq>
+        <context>Steps if the finished recipe is too thin.</context>
+        <steps>
+            <step>
+                <cmd><b>Place</b> freezer bowl back in the freezer</cmd>
+             <substeps>
+                 <substep>
+                     <cmd><b>Reevaluate</b> ingredients and bowl temperature if needed.</cmd>
+                 </substep>
+             </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

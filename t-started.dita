@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ygq_pwj_px">
+    <title>How to Get the Machine Started</title>
+    <taskbody>
+        <prereq> The following steps will help you get the ice cream maker started.
+                <ul>
+                <li><b>Goal</b>: Get ice cream machine started</li>
+                <li><b>Audience</b>: Student or faculty in Shanks</li>
+                <li><b>Materials</b>: Machine and included components, moist cloth, desired
+                    ingredients for recipe</li>
+                <li>
+                    <note type="danger">Do not fill the freezer bowl higher than 1/2 inch from the
+                        top. The ingredients will increase in volume during the freezing process,
+                        and this machine yields two quarts or less of whatever is made.</note>
+                </li>
+                </ul>
+        </prereq>
+        <steps>
+            <step>
+                <cmd><b>Put</b> freezer bowl in the coldest part of freezerl it must be completely frozen before
+                preparing recipe, freezing time is usually between 12 and 24 hours.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>(Optional) Leave your freezer bowl in the freezer at all times for convenience. 
+                        You can take it out at any time for immediate use.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Assemble</b> desired ingredients to use in machine</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>For best results, <b>prepare</b> ingredients in a container from which it is easy to pour</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Remove</b> freezer bowl from freezer and place it on the center of the base unit</cmd>
+            <substeps>
+                <substep>
+                    <cmd> 
+                       Bowl will begin to defrost quickly once it has been removed from freezer. Use immediately after removal.</cmd>
+                </substep>
+            </substeps>
+            </step>
+            
+            <step>
+                
+            <cmd><b>Place</b> mixing arm in freezer bowl, it should not fit tighly but it rests in the center of the bowl, 
+               circle side facing up</cmd>
+           </step>
+            <step>
+                <cmd><b>Place</b> lid on base, oriented to the right of center</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><b>Turn clockwise</b> to lock. Easy-lock lid allows lid to rest on said base.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Plug</b> in machine to electric socket</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Once the unit is plugged in, each function button should light up</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Select</b> desired function: "Ice Cream," "Gelato," or "Sorbet;" See Figure 1</cmd>
+                <info> Figure 1: Corresponding buttons <image href="images/buttons.png"></image></info>
+            </step>
+            <step>
+                <cmd><b>Press "Start/Stop"</b></cmd>
+            </step>
+            <step>
+                <cmd><b>Pour</b> ingredients into bowl through ingredient spout in Easy-lock lid</cmd>
+            </step>
+        </steps>
+        
+    </taskbody>
+</task>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gvq_xqz_px">
+    <title>How to Troubleshoot the Machine (Four Different Ways)</title>
+   
+    <taskbody>
+        <prereq>The following steps will help you troubleshoot the ice cream maker.
+         <ul>
+             <li><b>Goal</b>: Troubleshoot machine in four different situations</li>
+             <li><b>Audience</b>: Student or faculty in Shanks</li>
+             <li><b>Materials</b>: Ice cream machine</li>
+         </ul>
+        </prereq>
+      <context>Steps if the incorrect function was selected for making frozen dessert</context>
+      <steps>
+          <step>
+                <cmd><b>Reset</b> the machine by pressing the "Start/Stop" button twice</cmd>
+            </step>
+          <step>
+              <cmd><b>Press</b> button for desired function</cmd>
+          </step>
+      </steps>
+   
+      
+    </taskbody>
+</task>

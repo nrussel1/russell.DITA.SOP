@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_c1h_qlh_qx">
+    <title>How to Troubleshoot the Machine (Four Different Ways)</title>
+   
+    <taskbody>
+        <prereq>The following steps will help you troubleshoot the ice cream maker.
+            <ul>
+                <li><b>Goal</b>: Troubleshoot machine in four different situations</li>
+                <li><b>Audience</b>: Student or faculty in Shanks</li>
+                <li><b>Materials</b>: Ice cream machine</li>
+            </ul>
+        </prereq>
+        <context>Steps if the unit has stopped running.</context>
+        <steps>
+            <step>
+                <cmd><b>Press</b> the "Start/Stop" button if, upon inspection, your recipe is complete and let the unit cool.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>The machine may have stopped because the load was too heavy. The capacity for the machine is two quarts yielded. 
+                        If this seems to be happening, stop machine by <b>pressing</b> "Start/Stop" twice and <b>removing</b> some of your mixture.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

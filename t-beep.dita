@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_abd_1lh_qx">
+    <title>How to Troubleshoot the Machine (Four Different Ways)</title>
+    <taskbody>
+        <prereq>The following steps will help you troubleshoot the ice cream maker.
+            <ul>
+                <li><b>Goal</b>: Troubleshoot machine in four different situations</li>
+                <li><b>Audience</b>: Student or faculty in Shanks</li>
+                <li><b>Materials</b>: Ice cream machine</li>
+            </ul>
+        </prereq>
+        <context>Steps if the unit is beeping every few minutes.</context>
+        <steps>
+            <step>
+                <cmd><b>Press</b> the "Start/Stop" button</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>The process for creating your frozen dessert has completed and is beeping 
+                        to remind you. After 40 minutes, the machine will beep for five seconds every three 
+                        minutes for a maximum of 30 minutes to signal that the process is complete.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

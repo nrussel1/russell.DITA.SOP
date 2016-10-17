@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_msm_xtj_px" path="c-intro.html"/>
+   <appContext helpID="task_ygq_pwj_px" path="t-started.html"/>
+   <appContext helpID="task_zd5_qmz_px" path="t-clean.html"/>
+   <appContext helpID="task_gvq_xqz_px" path="t-incorrect.html"/>
+   <appContext helpID="task_abd_1lh_qx" path="t-beep.html"/>
+   <appContext helpID="task_c1h_qlh_qx" path="t-stopped.html"/>
+   <appContext helpID="task_icf_2mh_qx" path="t-thinrecipe.html"/>
+   <appContext helpID="task_w22_cwh_qx" path="t-strawberry.html"/>
+   <appContext helpID="task_gjx_wzh_qx" path="t-nutella.html"/>
+   <appContext helpID="task_c3h_3c3_qx" path="t-soy.html"/>
+</map>
